@@ -13,7 +13,7 @@
 
 <div>
   <a href="https://beacon.ai/CristalyA">
-  <img height="46%" src="https://github-readme-stats.vercel.app/api?username=CristalyA&show_icons=true&theme=tokyonight&include_all_comiits=true&_private=true"/>
-  <img heignt="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristalyA&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="20%" src="https://github-readme-stats.vercel.app/api?username=CristalyA&show_icons=true&theme=tokyonight&include_all_comiits=true&_private=true"/>
+  <img heignt="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristalyA&layout=compact&langs_count=16&theme=tokyonight"/>
   
 </div>
