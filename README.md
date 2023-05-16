@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+a+Cris.👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Cris.👋)](https://git.io/typing-svg)
 
+## Aboute me !
+
+- ✨ I'm Java developer.
 - 🔭 I’m currently working on my career transition.
 - 👩‍🎓 Graduated as a Java Jr Developer at Generation.
 - 😄 Pronouns: Ela/Dela/She/Her
@@ -22,14 +25,13 @@
   
 <div align="center">  
 <h3>What i'm learning 📚💜</h3>
-  <img align="center" alt="Cris-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Cris-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Cris-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Cris-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Cris-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Cris-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Cris-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Cris-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img src="https://img.shields.io/badge/JAVA-E34F27?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring"/>&nbsp;  
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-E34F26?style=for-the-badge&logo=oracle&logoColor=white" title="Oracle" alt="Oracle"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-2496ED?style=for-the-badge&logo=sql&logoColor=white" title="SQL" alt="SQL"/>&nbsp;
        
   
 </div>
