@@ -2,9 +2,7 @@
 
 ## Aboute me !
 
-- ✨ I'm Java developer.
-- 🔭 I’m currently working on my career transition.
-- 👩‍🎓 Graduated as a Java Jr Developer at Generation.
+- ✨ I'm developer.
 - 😄 Pronouns: Ela/Dela/She/Her
 
 <div align="center">  
